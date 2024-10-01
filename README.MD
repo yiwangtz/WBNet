@@ -2,6 +2,7 @@ WBNet: Weakly-supervised salient object detection via scribble and pseudo-backgr
 
 Predicted maps: 
 https://drive.google.com/file/d/1Z_lLTVEFZAQoWsVJ63O_PkC9X7e4SQF2/view?usp=drive_link
+https://pan.baidu.com/s/1lSNZu_7hnup8MI_ery9hVw?pwd=3e5h code: 3e5h 
 
 Cite:
 @article{WANG2024110579,
